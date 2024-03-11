@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/bin/Release/net6.0/Exception_Homework
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/bin/Release/net6.0/Exception_Homework.deps.json
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/bin/Release/net6.0/Exception_Homework.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/bin/Release/net6.0/Exception_Homework.dll
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/bin/Release/net6.0/Exception_Homework.pdb
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/obj/Release/net6.0/Exception_Homework.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/obj/Release/net6.0/Exception_Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/obj/Release/net6.0/Exception_Homework.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/obj/Release/net6.0/Exception_Homework.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/obj/Release/net6.0/Exception_Homework.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/obj/Release/net6.0/Exception_Homework.dll
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/obj/Release/net6.0/refint/Exception_Homework.dll
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/obj/Release/net6.0/Exception_Homework.pdb
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/obj/Release/net6.0/Exception_Homework.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/Exception_Homework/Exception_Homework/obj/Release/net6.0/ref/Exception_Homework.dll

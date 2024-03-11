@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{723662E8-B4F7-4FD2-B54D-A86D2276618F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Generic__Practise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Generic_Practise/DataList.cs">
+    <Files>
+      <File FileName="Generic_Practise/Program.cs" Line="60" Column="21" />
+      <File FileName="Generic_Practise/DataList.cs" Line="28" Column="11" />
+      <File FileName="Generic_Practise/Book.cs" Line="8" Column="1" />
+      <File FileName="Generic_Practise/Exceptions/NotFoundException.cs" Line="7" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Generic_Practise" expanded="True">
+            <Node name="Generic_Practise" expanded="True">
+              <Node name="Exceptions" expanded="True" />
+              <Node name="DataList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

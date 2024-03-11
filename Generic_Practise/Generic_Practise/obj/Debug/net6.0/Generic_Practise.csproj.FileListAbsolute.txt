@@ -1,0 +1,15 @@
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/bin/Debug/net6.0/Generic_Practise
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/bin/Debug/net6.0/Generic_Practise.deps.json
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/bin/Debug/net6.0/Generic_Practise.runtimeconfig.json
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/bin/Debug/net6.0/Generic_Practise.dll
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/bin/Debug/net6.0/Generic_Practise.pdb
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/obj/Debug/net6.0/Generic_Practise.csproj.AssemblyReference.cache
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/obj/Debug/net6.0/Generic_Practise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/obj/Debug/net6.0/Generic_Practise.AssemblyInfoInputs.cache
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/obj/Debug/net6.0/Generic_Practise.AssemblyInfo.cs
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/obj/Debug/net6.0/Generic_Practise.csproj.CoreCompileInputs.cache
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/obj/Debug/net6.0/Generic_Practise.dll
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/obj/Debug/net6.0/refint/Generic_Practise.dll
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/obj/Debug/net6.0/Generic_Practise.pdb
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/obj/Debug/net6.0/Generic_Practise.genruntimeconfig.cache
+/Users/fatimagaykhanova/Desktop/Generic_Practise/Generic_Practise/obj/Debug/net6.0/ref/Generic_Practise.dll

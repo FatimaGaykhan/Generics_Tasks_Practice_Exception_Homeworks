@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{0D9E03F0-D16D-49F0-8095-FAFCAE466EBF}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exception__Homework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exception_Homework/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="Exception_Homework/Program.cs" Line="8" Column="28" />
+      <File FileName="Exception_Homework/Services/Interfaces/IAccountService.cs" Line="6" Column="46" />
+      <File FileName="Exception_Homework/Services/AccountService.cs" Line="20" Column="91" />
+      <File FileName="Exception_Homework/Controllers/AccountController.cs" Line="18" Column="27" />
+      <File FileName="Exception_Homework/Helpers/Exceptions/InvalidEmailException.cs" Line="6" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exception_Homework" expanded="True">
+            <Node name="Exception_Homework" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountController.cs" selected="True" />
+              </Node>
+              <Node name="Helpers" expanded="True">
+                <Node name="Exceptions" expanded="True" />
+                <Node name="Extensions" expanded="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
